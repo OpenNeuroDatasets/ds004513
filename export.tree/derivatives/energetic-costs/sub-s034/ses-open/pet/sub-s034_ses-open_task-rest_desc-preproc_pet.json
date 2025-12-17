@@ -1,0 +1,52 @@
+{
+    "InstitutionName": "Klinikum rechts der Isar TUM",
+    "InstitutionAddress": "Ismaninger Strasse 22,Munich,81675,Germany",
+    "Manufacturer": "Siemens",
+    "ManufacturersModelName": "Biograph_mMR",
+    "BodyPart": "Brain",
+    "Units": "Bq/mL",
+    "TracerName": "FDG",
+    "TracerRadionuclide": "F18",
+    "InjectedRadioactivity": 190,
+    "InjectedRadioActivityUnits": "MBq",
+    "InjectedMass": "n/a",
+    "InjectedMassUnits": "n/a",
+    "SpecificRadioactivity": "n/a",
+    "SpecificRadioactivityUnits": "n/a",
+    "ModeOfAdministration": "bolus",
+    "TimeZero": "10:25:38",
+    "ScanStart": 0,
+    "InjectionStart": 0,
+    "FrameTimesStart": [
+        1200,
+        1500,
+        1800,
+        2100,
+        2400
+    ],
+    "FrameDuration": [
+        300,
+        300,
+        300,
+        300,
+        300
+    ],
+    "AcquisitionMode": "list mode",
+    "ImageDecayCorrected": true,
+    "ImageDecayCorrectionTime": 0,
+    "ReconMethodName": "OP-OSEM, MoCo and spatially-smoothed (FWHM=6mm)",
+    "ReconMethodParameterLabels": [
+        "subsets",
+        "iterations"
+    ],
+    "ReconMethodParameterUnits": [
+        "none",
+        "none"
+    ],
+    "ReconMethodParameterValues": [
+        14,
+        4
+    ],
+    "ReconFilterType": "none",
+    "AttenuationCorrection": "pct based attenuation correction"
+}
