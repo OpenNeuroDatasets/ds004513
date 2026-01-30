@@ -1,3 +1,5 @@
+1.0.6 2026-01-30
+  - README file updated with the TUM.exp cohort session acquisition dates
 1.0.5 2025-12-17
   - Files derivatives/sessions.tsv added and sub-s028/ses-open/pet/sub-s028_ses-open_task-rest_pet.nii.gz updated
 1.0.4 2023-12-19
