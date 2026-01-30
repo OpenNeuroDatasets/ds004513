@@ -10,3 +10,17 @@ This dataset consists of quantitative FDG-PET, BOLD-fMRI, and DWI data from 30 r
 3. The derivatives of an external within-subject replication sample (VIE.rep) ([Sundar et al., 2018](https://journals.sagepub.com/doi/full/10.1177/0271678X18776820)) of ten participants acquired with their eyes open (participants HC002 to HC014; mean age = 27 years, std= 7 years; 5 females). Two participants from the VIE.rep cohort had only one session.
 
 ⚠️NOTE: the file **derivatives/sessions.tsv** add the information for the eyes-closed session, which is not available in the file participants.tsv.
+
+**TUM.exp cohort session acquisition dates**
+
+| participant_id 	| ses-open        	| ses-closed             	|
+|----------------	|-----------------	|------------------------	|
+| sub-s003       	|        01.03.16 	|        02.02.16        	|
+| sub-s007       	|        15.03.16 	|        16.02.16        	|
+| sub-s012       	|        04.05.16 	|        31.05.16        	|
+| sub-s014       	|        11.05.16     	|        07.06.16        	|
+| sub-s017       	|        01.03.17 	|        29.03.17 	        |
+| sub-s020       	|        18.05.17 	|        05.04.17        	|
+| sub-s023       	|        24.05.17 	|        29.06.17        	|
+| sub-s025       	|        03.08.17 	|        07.06.17        	|
+| sub-s026       	|        17.08.17 	|        11.09.17        	|
